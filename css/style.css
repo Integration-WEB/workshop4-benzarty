@@ -1,6 +1,6 @@
 /* imports */
-
-/* Regular */
+/* C:\Users\Morning Beautiful\Desktop\Projet4eme\IntegrationWeb\workshop4-benzarty\fontface\league-gothic-master\webfonts/style.css */
+/* Regular  w tebadel 7aseb path*/
 @font-face {
     font-family: 'League Gothic';
     src: url('../fontface/league-gothic-master/leaguegothic-regular-webfont.eot');
@@ -34,15 +34,19 @@
 .navbar-brand{
     height: 6.62rem;
     width: 7.62rem;
-    padding-top:unset!important
+     padding-top:unset!important  
+     /* meché chef enehiya el 3andeha margin top w na7aha  */
+    
 }
 
 .nav-link{
-    font-family: 'League Gothic';
+  font-family: 'League Gothic'; 
+   
 }
 
 .logo{
-    padding: 1rem 1.25rem;
+    padding: 1rem 1.25rem;  
+    /* vertical horizenatale */
 }
 
 /* section 2 */
@@ -57,8 +61,10 @@
 .bi-circle-fill{
     color:   #f0bd01;
 }
-.section2 > p{
-    margin-top: 1.8rem!important;
+.section2 p{              
+    
+    margin-top: 1.8rem!important;   
+   /* bech forci héthi important  */
 
 }
 
@@ -73,3 +79,58 @@
       background-color:   #f0bd01;
 
   }
+
+
+
+
+  footer{
+    background-color: #f0bd01;
+   padding-top: 2.5rem;
+   
+}
+footer p{
+   font-size: 1.17rem; 
+   font-family: 'lacuna_regularregular';   
+   color: #31332e;
+   margin-top: 1rem;
+}
+footer span{
+    font-size: 1.8rem;
+    color: #31332e;
+    font-family: 'League Gothic';
+}
+
+.social-icon{
+  color: #f0bd01;
+  background-color: white;
+  height: 1.875rem;
+  width: 1.875rem;
+  border-radius: 50%;
+  /*font-size: 10rem;*/
+  padding-top: 0.25rem;
+  margin: 1rem !important;
+}
+footer i{
+  color: #f0bd01;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
